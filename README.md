@@ -1,0 +1,2 @@
+# Fractal
+Simple fractal generator
